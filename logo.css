@@ -1,0 +1,12 @@
+.logos img{
+    height: 93px;
+    width: 210px;
+    
+
+    
+}
+.logos{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
